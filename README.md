@@ -21,6 +21,25 @@ Use historical order and customer patterns to recognize high-growth cities, stat
 - Recommend Data-Driven Business Actions
 Provide insights that can help management optimize product assortment, target high-value markets, improve customer satisfaction, and allocate resources more efficiently.
 
+# Project Architecture
+
+- Raw Dataset (CSV Files)
+        │
+        │
+- PostgreSQL Database
+(Data Cleaning & SQL Queries)
+        │
+        │
+- Data Modeling
+(ERD & Table Relationships)
+![Dashboard](https://github.com/AishwaryaG2000/Olist-E-Commerce-Business-Analysis/blob/58651fe5fa5eef0a85a5c97e7da8be8852005648/ERD_OLIST.pgerd.png)        
+
+- Power BI
+(Data Transformation & Dashboard)
+        │
+        │
+- Business Insights & Recommendations
+
 # Key Business Metrics
 - The dashboard tracks major marketplace indicators:
 - Total Orders: **~99K**
@@ -31,14 +50,14 @@ These KPIs provide a quick overview of platform performance and customer satisfa
 
 # Key Insights
 
-# Customer Distribution
+**Customer Distribution**
 - Customer demand is highly concentrated in a few states.
 - São Paulo (SP) dominates the marketplace with the largest share of customers and revenue.
 
-# Sales Concentration
+**Sales Concentration**
 - A significant proportion of sales comes from a limited number of states, indicating strong regional clusters of demand.
 
-# Product Demand
+**Product Demand**
 - Top product categories include:
 - Bed, bath, and table products
 - Sports and leisure
@@ -46,34 +65,14 @@ These KPIs provide a quick overview of platform performance and customer satisfa
 - Beauty and health
 These categories represent the highest order volumes, making them key revenue drivers.
 
-# Customer Satisfaction
+**Customer Satisfaction**
 - More than 57% of reviews are 5-star ratings, indicating strong overall customer satisfaction.
 - The average review score of 4.07 suggests generally positive customer experiences.
 
 # Dashboard 
 
-
+![Dashboard](
 These visualizations enable quick exploration of marketplace trends and performance drivers.
-
-# Project Architecture
-
-Raw Dataset (CSV Files)
-        │
-        │
-PostgreSQL Database
-(Data Cleaning & SQL Queries)
-        │
-        │
-Data Modeling
-(ERD & Table Relationships)
-        │
-        │
-Power BI
-(Data Transformation & Dashboard)
-        │
-        │
-Business Insights & Recommendations
-
 
 # Business Recommendations
 - Focus on High-Performing Regions:
