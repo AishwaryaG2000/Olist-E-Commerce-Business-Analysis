@@ -71,8 +71,16 @@ These categories represent the highest order volumes, making them key revenue dr
 
 # Dashboard 
 
-![Dashboard](
+![Dashboard](https://github.com/AishwaryaG2000/Olist-E-Commerce-Business-Analysis/blob/54a93519ad215950290c08ecba12571ab2adb81e/Screenshot%202026-03-05%20125710.png)
 These visualizations enable quick exploration of marketplace trends and performance drivers.
+
+# Tools & Technologies
+- SQL / PostgreSQL
+Used for data storage, cleaning, and querying.
+- Power BI
+Used for interactive dashboard development and visualization.
+- Data Modeling
+Entity-relationship design used to structure the marketplace data.
 
 # Business Recommendations
 - Focus on High-Performing Regions:
@@ -83,6 +91,10 @@ High-demand categories such as home products and sports goods should receive pri
 Cities with rapidly growing customer bases present opportunities for logistics improvements and localized marketing campaigns
 - Leverage Customer Satisfaction
 High review scores can be used as a trust signal in marketing campaigns to attract new customers and retain existing ones
+
+# Project Outcome
+
+This project demonstrates how business analytics can transform large e-commerce datasets into actionable insights. By analyzing customer behavior, regional sales distribution, and product demand patterns, businesses can make more informed decisions regarding market expansion, marketing strategy, and customer experience improvements.
 
 
 
